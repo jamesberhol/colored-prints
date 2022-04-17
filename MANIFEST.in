@@ -1,0 +1,2 @@
+include colored_prints/colored_prints.py
+include colored_prints/__init__.py
