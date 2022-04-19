@@ -28,5 +28,7 @@ magenta("Hello World") - magenta() MAGENTA
 
 cyan("Hello World") - cyan() CYAN
 
+if your word integer with at least two digits:
+ choose('color', 'word')
 
 ```
